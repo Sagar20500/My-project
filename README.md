@@ -67,3 +67,11 @@ This capstone project aims to analyze the Indian used car market by uncovering p
 - **For Platforms**: Integrate real-time EMI calculators and filters for better user experience.
 
 ---
+
+## 📌 Summary of the Study
+
+The project successfully transformed unstructured web data into visual insights using Python and Power BI. It emphasizes the importance of data-driven decisions in India’s growing used car market.
+
+By delivering brand-level pricing intelligence and affordability insights, the project supports more transparent and informed choices for buyers and sellers alike.
+
+---

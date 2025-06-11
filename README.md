@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/2ba9699f-4887-4395-a9d2-d30634580a9e)
+
 # 🚗 Used Cars Price Analysis: Market Trends and Value-for-Money Insights
 
 ## 📌 Project Overview

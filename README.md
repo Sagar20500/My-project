@@ -77,3 +77,10 @@ The project successfully transformed unstructured web data into visual insights 
 By delivering brand-level pricing intelligence and affordability insights, the project supports more transparent and informed choices for buyers and sellers alike.
 
 ---
+
+## 👨‍💻 Author
+
+**Sagar Baditya**  
+🔗 www.linkedin.com/in/sagar-baditya  
+
+---
